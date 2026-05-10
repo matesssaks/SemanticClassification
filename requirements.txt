@@ -1,2 +1,7 @@
 datasets
 ipykernel
+ipywidgets
+pandas
+matplotlib
+seaborn
+numpy

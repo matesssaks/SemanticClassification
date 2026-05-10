@@ -1,3 +1,7 @@
+/test.csv
+/train.csv
+/validation.csv
+
 ### JupyterNotebooks template
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
